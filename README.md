@@ -1,5 +1,5 @@
 # 💫 About Me:
-Follower of my Lord & Savior Jesus Christ✝️<br>El Salvador<br>Studying Cybersecurity 🤖🫆
+Follower of my Lord & Savior Jesus Christ✝️<br>El Salvador sv<br>Studying Cybersecurity 🤖🫆
 
 
 # 💻 Tech Stack:
