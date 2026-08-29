@@ -10,9 +10,9 @@ Follower of my Lord & Savior Jesus Christ ✝️<br>El Salvador sv<br>Studying C
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ploes1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### ⚡ Mi Actividad reciente en GitHub
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/ploes1/miCuartoRepo/issues/1) in [ploes1/miCuartoRepo](https://github.com/ploes1/miCuartoRepo)
-2. ❗ Opened issue [#1](https://github.com/ploes1/miCuartoRepo/issues/1) in [ploes1/miCuartoRepo](https://github.com/ploes1/miCuartoRepo)
-3. 🎉 Merged PR [#10](https://github.com/ploes1/miPrimerRepo/pull/10) in [ploes1/miPrimerRepo](https://github.com/ploes1/miPrimerRepo)
-4. 💪 Opened PR [#10](https://github.com/ploes1/miPrimerRepo/pull/10) in [ploes1/miPrimerRepo](https://github.com/ploes1/miPrimerRepo)
-5. 🎉 Merged PR [#7](https://github.com/ploes1/miPrimerRepo/pull/7) in [ploes1/miPrimerRepo](https://github.com/ploes1/miPrimerRepo)
+1. 🎉 Merged PR [#3](https://github.com/ploes1/miCuartoRepo/pull/3) in [ploes1/miCuartoRepo](https://github.com/ploes1/miCuartoRepo)
+2. 💪 Opened PR [#3](https://github.com/ploes1/miCuartoRepo/pull/3) in [ploes1/miCuartoRepo](https://github.com/ploes1/miCuartoRepo)
+3. 🎉 Merged PR [#2](https://github.com/ploes1/miCuartoRepo/pull/2) in [ploes1/miCuartoRepo](https://github.com/ploes1/miCuartoRepo)
+4. 💪 Opened PR [#2](https://github.com/ploes1/miCuartoRepo/pull/2) in [ploes1/miCuartoRepo](https://github.com/ploes1/miCuartoRepo)
+5. 🔒 Closed issue [#1](https://github.com/ploes1/miCuartoRepo/issues/1) in [ploes1/miCuartoRepo](https://github.com/ploes1/miCuartoRepo)
 <!--END_SECTION:activity-->
